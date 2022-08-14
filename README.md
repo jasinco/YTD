@@ -2,7 +2,7 @@
 
 ### A simple youtube CLI downloader
  
-# Run
+# Run & Build
 If you want to run or build it please follow these steps:  
 1. Install Python3
 2. Create a python virtual enviroment(venv)

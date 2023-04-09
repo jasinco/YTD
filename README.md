@@ -3,6 +3,9 @@
 ### A simple youtube CLI downloader
  
 # Run & Build
+## Warning
+The releases may not work well, maybe build it by yourself
+
 If you want to run or build it please follow these steps:  
 1. Install Python3
 2. Run `git clone https://github.com/jasinco/YTD.git;cd YTD`
